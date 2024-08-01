@@ -11,7 +11,11 @@ description:
   2022 年广州市越秀区一模数学 T25 解题笔记
 ---
 
-![题面](https://xijp.cloud/post-images/1714823537608.png)
+~~![题面](https://xijp.cloud/post-images/1714823537608.png)~~
+
+图片挂了
+
+![题面](image-1.png)
 
 ## (1)
 
@@ -34,7 +38,11 @@ $$
 
 这题让我们判断 $C_{\bigtriangleup AEG}$ 是否为定值，我们可以先盲猜它是定值（毕竟一般这种题都是定值）。然后观察 $\bigtriangleup AEG$ 所在的位置，发现其中 $EG$ 和 $AG$ 的位置比较刁钻，不好求，于是我们可以想到过点 $E$ 作 $AC$ 的垂线，如图所示：
 
-![](https://xijp.cloud/post-images/1714825447280.png)
+~~![](https://xijp.cloud/post-images/1714825447280.png)~~
+
+图片挂了
+
+![复活！](image-2.png)
 
 这样是不是就把 $EG$ 和 $AG$ 跟 $EH$ 联系起来了（$AG=AH-GH$），同时，$AE$ 和 $AH$、$EH$ 也联系起来了。但是，我们是不知道它们的具体数值的，于是我们直接设元：设 $BE=a，AE=6-a$。这里我们需要注意到，为了求 $AG$ 关于 $a$ 的表达式，我们需要 $CG$，而 $CG$ 需要用第一问的相似得到，所以我们设 $BE$ 为基本单位。
 
