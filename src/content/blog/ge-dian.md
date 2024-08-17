@@ -3,7 +3,7 @@ title: Tarjan 求割点/桥
 author: xieyeheng
 pubDatetime: 2024-08-16T15:13:31Z
 slug: ge-dian
-featured: false
+featured: true
 draft: false
 tags:
   - 学习
