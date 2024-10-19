@@ -3,7 +3,7 @@ title: Noi Linux 配置指北
 author: xieyeheng
 pubDatetime: 2024-10-19T22:05:31Z
 slug: noi-linux-vscode
-featured: false
+featured: true
 draft: false
 tags:
   - Noi Linux
