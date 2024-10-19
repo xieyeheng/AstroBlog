@@ -6,7 +6,7 @@ slug: noi-linux-vscode
 featured: true
 draft: false
 tags:
-  - Noi Linux
+  - 学习
 description:
   记录一下 Noi Linux 中 Vsc 的配置，以备不时之需。
 ---
