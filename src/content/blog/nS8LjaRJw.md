@@ -1,5 +1,5 @@
 ---
-title: 花都 GF 机房生存至安南
+title: 花都 GF 机房生存指南
 author: xieyeheng
 pubDatetime: 2023-04-20T04:06:31Z
 slug: survive-in-hua-du-gf
